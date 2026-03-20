@@ -46,9 +46,9 @@ public class FirstSeleniumTest {
         //System.out.println(noOfHyperlinks);
 
         //img using tagName
-        List<WebElement> listOfImages=driver.findElements(By.tagName("img"));
-        int noOfImages= listOfImages.size();
-        System.out.println("The no of images on the home webpage is "+noOfImages);
+        //List<WebElement> listOfImages=driver.findElements(By.tagName("img"));
+        //int noOfImages= listOfImages.size();
+       // System.out.println("The no of images on the home webpage is "+noOfImages);
 
 
 
